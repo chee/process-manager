@@ -1,5 +1,5 @@
 [package]
-authors = ["chee <chee@snoot.club>"]
+authors = ["chee <yay@chee.party>"]
 edition = "2018"
 name = "process-manager"
 version = "0.1.0"
